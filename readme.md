@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/perkinsjr/isSHA256.svg?branch=master)](https://travis-ci.com/perkinsjr/isSHA256)
+[![Build Status](https://travis-ci.com/perkinsjr/IsSHA256.svg?branch=master)](https://travis-ci.com/perkinsjr/IsSHA256)
 [![tippin.me](https://badgen.net/badge/%E2%9A%A1%EF%B8%8Ftippin.me/@james_r_perkins/F0918E)](https://tippin.me/@james_r_perkins)
 [![Donate.Paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/jamesperkinsOSS)
 [![Donate.Coffee](https://img.shields.io/badge/Donate-BuyMeCoffee-red.svg)](https://www.buymeacoffee.com/Of6xAMjSK)

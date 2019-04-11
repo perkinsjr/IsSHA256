@@ -16,8 +16,8 @@ Check to see if something is SHA256
 
     const issha256 = require('issha256');
 
-    regexGit.test('0c67b2c1fcfba9fb71ff6feae41abd61d591df8ecabebefdba51db4d3cf9f1cf');
-    regexGit.test('NOT256');
+    issha256.test('0c67b2c1fcfba9fb71ff6feae41abd61d591df8ecabebefdba51db4d3cf9f1cf');
+    issha256.test('NOT256');
 
 ### License
 

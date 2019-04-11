@@ -1,0 +1,28 @@
+{
+  "name": "issha256",
+  "version": "1.0.0",
+  "description": "Check to see if a input is SHA256 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perkinsjr/IsSHA256.git"
+  },
+  "keywords": [
+    "SHA256-check",
+    "regex-sha256",
+    "SHA256",
+    "Regex"
+  ],
+  "author": "James Perkins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perkinsjr/IsSHA256/issues"
+  },
+  "homepage": "https://github.com/perkinsjr/IsSHA256#readme",
+  "dependencies": {
+    "ava": "^1.4.1"
+  }
+}

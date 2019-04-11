@@ -1,6 +1,6 @@
 {
   "name": "issha256",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Check to see if a input is SHA256 ",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,8 @@
     "url": "https://github.com/perkinsjr/IsSHA256/issues"
   },
   "homepage": "https://github.com/perkinsjr/IsSHA256#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "ava": "^1.4.1"
   }
 }

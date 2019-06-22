@@ -24,6 +24,6 @@
   "homepage": "https://github.com/perkinsjr/IsSHA256#readme",
   "dependencies": {},
   "devDependencies": {
-    "ava": "^1.4.1"
+    "ava": "^2.1.0"
   }
 }
